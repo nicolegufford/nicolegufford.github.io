@@ -1,6 +1,9 @@
 body {
   background-color: rgb(258, 168, 233)
 }
-tr:nth-child(even){background-color: #dddddd;
-  
+.title{
+  color: white;
+}
+.content{
+  color: white;
 }
