@@ -8,3 +8,10 @@ body {
   color: white;
   font-size: 20px;
 }
+a:hover{
+ background-color:lightpink; 
+  font-size: 24px;
+}
+#mykie:hover{
+ font-color:BlanchedAlmond; 
+}
