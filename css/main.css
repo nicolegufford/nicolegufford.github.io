@@ -2,13 +2,7 @@ body {
   background-color: rgb(258, 168, 233)
     color:white;
 }
-.title{
-  color: white;
-}
-.content{
-  color: white;
-  font-size: 20px;
-}
+
 a:hover{
  background-color:lightpink; 
   font-size: 24px;
